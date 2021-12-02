@@ -1,4 +1,11 @@
 import requests
+from dotenv import load_dotenv
+
+env_path = Path('.')/'.env'
+load_dotenv(dotenv_path=env_path)
+
+# get things from dotenv like this:
+# SECRET_KEY = os.getenv("SECRET_KEY")
 
 def send_transaction(addr, ammount):
     pass
