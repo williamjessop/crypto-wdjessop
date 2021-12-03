@@ -31,7 +31,7 @@
 | :--- | :--- |
 | Name | Python RPC Transaction |
 | Description | A project that can send a transaction with raw Bitcoin RPC calls |
-| Status | In Progress |
+| Status | Done |
 | Location | https://github.com/williamjessop/crypto-wdjessop/tree/main/project2 |
 | Self Grade | 100/100 |
-| Notes | In the project2 folder you will find a readme with more details, a folder named "evidence" showing screenshots of this project working, and a python script containing the project code.|
+| Notes | In the project2 folder you will find a readme with more details, a folder named "evidence" showing screenshots of this project working, and a python script containing the project code. For the script to work, one would need to add the ".env" environment file. |
